@@ -6,7 +6,7 @@ This repository is created to track my development on Cuda and Python  (pyCuda) 
 
 Firstly, I would like to mention that I have a very limited programming background, I am moderate with VEX, familiar with Python, do know some MEL. Absouletly no knowledge on CUDA. But I am a quick learner and quiet eager on such tasks.
 
-So please help me on this task for speeding up things in Houdini or any other task than can be greatly accelerated by the power CUDA.
+So please help me on this task for speeding up things in Houdini or any other task than can be greatly accelerated by the power of GPU.
 
 First goal was to sucesfully run a random number generation trough python SOP in Houdini.
 
